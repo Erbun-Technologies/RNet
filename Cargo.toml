@@ -1,0 +1,13 @@
+[package]
+name = "rnet_claude"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ratatui = "0.26.1"
+crossterm = "0.27.0"
+sysinfo = "0.30.5"
+pnet = "0.34.0"
+pcap = "1.1.0"
+chrono = "0.4.34"
+anyhow = "1.0.79"
